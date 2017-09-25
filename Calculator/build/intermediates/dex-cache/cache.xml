@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/66def27e7c5e9f0c4f2cf271dbd0bc817c7f8f0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b91695811fd5409ac300ff7da1d19b4eabc6991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alua/Desktop/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fa244a3fadb65dec9f69697f45cbe4180d91c7a">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_99b8f92417cf69085e3bf31afc2e955a0b267072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6c5f21cb59caa8d40de0426d7390bc34d051ddee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7029bf7fa42c1b3e3ee87882ae9f1177c8b50694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_acaaabd111fb39ccce6bdadc5542d5003dd7533d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2562069281e7a6a27ece2847c6f28aa15b3bc4ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c32fb0ec2056743825ceb620dfa3dc04c7305540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8c92387bd0b58c06529c952e058eb824f27f96c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e9a02c900cf8ae172e7b5751f8f7423fa4f1927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a885be9f6df98fdda6ca41fb8a95074d62987b73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbf13700e8c74c04fad2e6aafce7855b01769d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alua/Desktop/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8bf373b90d684ac442ab46a0aff8ea527f71baac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3971ee0a8e379ade2cd2dac7c268bb3ca90a851a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e2aaddda0eb04e7846cdc51ee943dfb6554928d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7d218958de4f58fac12bf51726a7a5262e9106b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_951fae399946b231ebf8413e8318200cd6288a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/81f4a6013454c567a5fdbc2ae6a0463850307d4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfa465c43904acbcf00ae7854ba347cb82e0b991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/976ed0efaa720ad141c7c5fbb59c11e354d14343/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ba2cd79990692259faadc7602ee6496f5ddffde/classes.dex" />
+    </item>
+
+</items>

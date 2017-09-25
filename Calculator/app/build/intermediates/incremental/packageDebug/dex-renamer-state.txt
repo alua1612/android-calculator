@@ -1,0 +1,7 @@
+#Mon Sep 18 13:29:02 ALMT 2017
+base.0=/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8bf373b90d684ac442ab46a0aff8ea527f71baac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_99b8f92417cf69085e3bf31afc2e955a0b267072/classes.dex
+base.1=/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_99b8f92417cf69085e3bf31afc2e955a0b267072
+file.0=/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8bf373b90d684ac442ab46a0aff8ea527f71baac/classes.dex

@@ -1,0 +1,4 @@
+#Mon Sep 18 13:20:02 ALMT 2017
+base.0=/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/home/alua/Desktop/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
